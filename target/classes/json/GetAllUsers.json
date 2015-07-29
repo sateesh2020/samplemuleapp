@@ -1,0 +1,18 @@
+[
+    {
+        "userName": "satvallu",
+        "firstName": "Satheesh",
+        "lastName": "Valluru",
+        "email": "satvallu@cisco.com",
+        "salt": "43hgfhfh43243hgfg423dasd&&56**&^bnjhgh",
+        "hashPassword": "fdsfjhj&7656gvdGhjg556r3524GHFgf34423432gghfg"
+    },
+    {
+        "userName": "satvallu",
+        "firstName": "Satheesh",
+        "lastName": "Valluru",
+        "email": "satvallu@cisco.com",
+        "salt": "43hgfhfh43243hgfg423dasd&&56**&^bnjhgh",
+        "hashPassword": "fdsfjhj&7656gvdGhjg556r3524GHFgf34423432gghfg"
+    }
+]
